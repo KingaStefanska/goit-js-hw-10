@@ -68,7 +68,7 @@ function cleanHtml() {
 
 body.style.paddingTop = '66px';
 body.style.paddingLeft = '70px';
-body.style.backgroundColor = '#80cbc4';
+body.style.backgroundColor = '#ffa08b';
 
 input.style.width = '300px';
 input.style.fontWeight = '500';
